@@ -120,7 +120,7 @@ int main()
             cout << "Exiting program." << endl;
             break;
 
-            default:
+        default:
             cout << "invalid choice. Try again." << endl;
             break;
         }
